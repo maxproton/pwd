@@ -1,0 +1,20 @@
+
+
+    ██████╗░░██╗░░░░░░░██╗██████╗░
+    ██╔══██╗░██║░░██╗░░██║██╔══██╗
+    ██████╔╝░╚██╗████╗██╔╝██║░░██║
+    ██╔═══╝░░░████╔═████║░██║░░██║
+    ██║░░░░░░░╚██╔╝░╚██╔╝░██████╔╝
+    ╚═╝░░░░░░░░╚═╝░░░╚═╝░░╚═════╝░
+    1.2 https://github.com/sethvoid/public-security
+
+    +-----------------------------------------------------------------------------------------+
+    | Please do not use in military or secret service organizations, or for illegal purposes. |
+    +-----------------------------------------------------------------------------------------+
+
+    Pwd usage:
+    --file       Wordlist file (required)
+    --output     Name of output file
+    --vvv        Verbose mode (some nice information)
+    --help       Display what you are currently looking at.
+
