@@ -6,7 +6,7 @@
                         ╚═╝░░░░░░░░╚═╝░░░╚═╝░░╚═════╝░
 
                       (c) 2021-2022 by Seth Void / Maxproton labs
-             <maxpr0t0n@protonmail.com> https://github.com/sethvoid/pw
+             <maxpr0t0n@protonmail.com> https://github.com/sethvoid/pwd
                Licensed under Apache License 2.0 (see LICENSE file)
 
            Please do not use in military or for illegal purposes.

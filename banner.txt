@@ -6,7 +6,7 @@
     ██╔═══╝░░░████╔═████║░██║░░██║
     ██║░░░░░░░╚██╔╝░╚██╔╝░██████╔╝
     ╚═╝░░░░░░░░╚═╝░░░╚═╝░░╚═════╝░
-    1.2 https://github.com/sethvoid/public-security
+    1.2 https://github.com/sethvoid/pwd
 
     +-----------------------------------------------------------------------------------------+
     | Please do not use in military or secret service organizations, or for illegal purposes. |
