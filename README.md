@@ -5,7 +5,7 @@
                         ██║░░░░░░░╚██╔╝░╚██╔╝░██████╔╝
                         ╚═╝░░░░░░░░╚═╝░░░╚═╝░░╚═════╝░
 
-                      (c) 2021-2022 by Seth Void / Maxproton labs
+                      (c) 2021-2022 by Seth Wallace / Maxproton
              <maxpr0t0n@protonmail.com> https://github.com/sethvoid/pwd
                Licensed under Apache License 2.0 (see LICENSE file)
 
