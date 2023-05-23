@@ -39,10 +39,12 @@ These are just some of the examples of combinations pwd will generate.
 
 Usage
 ----
-pwd is a php script and is ran as follows 
+pwd is a php|python script and is ran as follows 
 
 <code>
 php pwd.php --file=[path to list of words] --output=[where you want the list saved] 
+
+python3 pwd.py --file=[path to list of words] --output=[where you want the list saved]
 </code>
 
 <code>--file</code> and <code>--output</code> are mandatory
@@ -59,7 +61,6 @@ Using a list of more than 8 to 10 words will produce a very large password list.
 Future improvements
 -------------------
 * Add a file split feature
-* Port to python
 
 
 
