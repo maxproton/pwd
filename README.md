@@ -44,7 +44,7 @@ pwd is a php|python script and is ran as follows
 <code>
 php pwd.php --file=[path to list of words] --output=[where you want the list saved] 
 
-python3 pwd.py --file=[path to list of words] --output=[where you want the list saved]
+python3 pwd.py -f [path to list of words] -o [where you want the list saved]
 </code>
 
 <code>--file</code> and <code>--output</code> are mandatory
