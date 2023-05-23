@@ -1,7 +1,10 @@
 import sys
 import os
+from datetime import datetime
+import time
 
 sys.setrecursionlimit(10**6)
+start = time.time()
 
 options = {
     'f': '',
